@@ -1,0 +1,22 @@
+{
+    "name": "inspired-by-github",
+    "displayName": "inspired-by-github",
+    "description": "Inspired by Github",
+    "version": "0.0.1",
+    "publisher": "amad",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Inspired-by-Github",
+                "uiTheme": "vs",
+                "path": "./themes/InspiredByGithub-color-theme.json"
+            }
+        ]
+    }
+}
